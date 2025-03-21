@@ -24,6 +24,7 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110""/></a>    
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48"/></a>
 <a href="https://travis-ci.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/travis-ci.png"/></a>
