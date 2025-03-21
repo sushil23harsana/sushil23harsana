@@ -47,7 +47,7 @@
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sushil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushil23harsana&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Akshya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil23harsana&langs_count=8&count_private=true&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sushil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil23harsana&langs_count=8&count_private=true&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
