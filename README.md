@@ -13,7 +13,7 @@
 
 <p align="left"> 
 <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
-<a href="https://golang.google.cn/" target="_blank"> <img src="https://sl.bing.net/gySq7VGd77c"/></a>
+<a href="https://golang.google.cn/" target="_blank"> <img src="https://icons8.com/icon/44442/golang"/></a>
 <a href="https://spring.io/projects/spring-boot/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a>
 <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/angularjs.png"/></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
@@ -39,14 +39,14 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akshya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHYA1997&theme=blueberry&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushil's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil23harsana&theme=blueberry&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Akshya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushil23harsana&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sushil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushil23harsana&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Akshya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil23harsana&langs_count=8&count_private=true&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
