@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=sushil23harsana")](https://github.com/ashutosh00710/github-readme-activity-graph)/></a>
+
 
 <br/>
 <br/>
