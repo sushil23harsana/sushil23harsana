@@ -26,16 +26,18 @@ Here are the primary technologies I work with:
 
 ---
 
-### 📊 My GitHub Activity & Streak
+### 📊 My GitHub Stats
 
-<div align="center">
-
-  <!-- GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/sushil23harsana?template=classic&theme=blueberry&hide_border=true&border_radius=10&langs_count=8&layout=compact" alt="sushil23harsana's GitHub Metrics" width="600"/>
-
-  <br><br>
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushil23harsana&theme=blueberry&hide_border=true&stroke=0000&background=0D1117" alt="sushil23harsana's GitHub Streak" width="600"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/sushil23harsana">
+    <img alt="Sushil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushil23harsana&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/sushil23harsana">
+    <img alt="Sushil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil23harsana&langs_count=8&count_private=true&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sushil23harsana">
+    <img alt="Sushil's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil23harsana&theme=blueberry&hide_border=true&stroke=0000&background=0D1117"/>
+  </a>
+</p>
