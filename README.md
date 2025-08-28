@@ -29,11 +29,13 @@ Here are the primary technologies I work with:
 ### 📊 My GitHub Activity & Streak
 
 <div align="center">
-  <a href="https://github.com/sushil23harsana">
-    <img src="https://metrics.lecoq.io/sushil23harsana?template=classic&theme=blueberry&hide_border=true&border_radius=10&langs_count=8&layout=compact" alt="sushil23harsana's GitHub Metrics" />
-  </a>
-  <br>
-  <a href="https://github.com/sushil23harsana">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushil23harsana&theme=blueberry&hide_border=true&stroke=0000&background=0D1117" alt="sushil23harsana's GitHub Streak" />
-  </a>
+
+  <!-- GitHub Metrics -->
+  <img src="https://metrics.lecoq.io/sushil23harsana?template=classic&theme=blueberry&hide_border=true&border_radius=10&langs_count=8&layout=compact" alt="sushil23harsana's GitHub Metrics" width="600"/>
+
+  <br><br>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushil23harsana&theme=blueberry&hide_border=true&stroke=0000&background=0D1117" alt="sushil23harsana's GitHub Streak" width="600"/>
+
 </div>
