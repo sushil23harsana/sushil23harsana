@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1A3300,20C20E&height=300&section=header&text=Sushil%20Harsana&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=55&descSize=25&fontAlign=50" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sushil+Harsana!;Software+Engineer;Backend+Specialist+(Go+%7C+Java+%7C+Python);Building+Scalable+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sushil+Harsana!;Software+Engineer;Backend+(Go+%7C+Java+%7C+Python);Building+Scalable+Microservices" alt="Typing SVG" />
 </div>
 
 <div align="center">
