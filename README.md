@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/sushil-harsana-2b604b258">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-eta-five-65.vercel.app/">
+  <a href="https://go-portfolio-pro.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:sushil23harsana@gmail.com">
